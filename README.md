@@ -13,8 +13,8 @@
 <li>📝 Sometimes I write articles on <a href="https://www.tarikbahar.com/blog/">my blog</a>.</li>
 <li>💬 Ping me about <strong>python, web scraping</strong> and <strong>bots</strong>.</li>
 <li>📜 Check out my <a href="https://www.tarikbahar.com/wp-content/uploads/2021/01/Muhammed_Tarik_BAHAR_CV.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: <br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23347AB4&aColor=%23347AB4&borderColor=%23347AB4" alt="README Jokes"></a>
+<li>🎉 Fun Fact: <br><br>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23347AB4&aColor=%23347AB4&borderColor=%23ffffff" alt="README Jokes"></a>
   
 </li>
 </ul>
