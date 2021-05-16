@@ -8,7 +8,7 @@
 <img align="right" src="https://raw.githubusercontent.com/tarikbahar/tarikbahar/main/tarikbahar.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on   ⏳  </li>
+<li>🔭 I’m currently working on building ETL processes </li>
 <li>🧐 Learning about <strong>AWS</strong>.</li>
 <li>📝 Sometimes I write articles on <a href="https://www.tarikbahar.com/blog/">my blog</a>.</li>
 <li>💬 Ping me about <strong>python, web scraping</strong> and <strong>bots</strong>.</li>
