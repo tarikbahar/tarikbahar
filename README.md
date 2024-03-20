@@ -1,7 +1,7 @@
 
 
 <h2>Hey 👋, I'm <a href="https://www.tarikbahar.com/">Tarik</a>!</h2>
-<p align="center">I'm a <strong>cloud data engineer</strong> living in <strong>Istanbul, Turkey</strong>, working for <a href="https://www.beinmediagroup.com/">BeIN Media</a>. I like collecting and storing <strong>data</strong>. My biggest hobby is creating my own data sets with web scraping.
+<p align="center">I'm a <strong>cloud data engineer</strong> living in <strong>Istanbul, Turkey</strong>, working for <a href="https://www.n11.com/">n11</a>. I like collecting and storing <strong>data</strong>. My biggest hobby is creating my own data sets with web scraping.
 </p>
 <p align="center">I 💙 Python.  </p>
 
